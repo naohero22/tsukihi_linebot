@@ -1,0 +1,21 @@
+{
+  "name": "mylinebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mylinebot.js",
+  "scripts": {
+    "start": "node mylinebot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^6.0.1",
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
